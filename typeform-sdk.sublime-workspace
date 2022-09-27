@@ -1,1 +1,1519 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ta",
+				"targId"
+			],
+			[
+				"targ",
+				"targId"
+			],
+			[
+				"tar",
+				"targId"
+			],
+			[
+				"var",
+				"verbose_name="
+			],
+			[
+				"Service",
+				"ServiceModel"
+			],
+			[
+				"is",
+				"is_order"
+			],
+			[
+				"order",
+				"order_model"
+			],
+			[
+				"cs",
+				"CsrfExemptMixin"
+			],
+			[
+				"quan",
+				"quantity"
+			],
+			[
+				"qun",
+				"quantity"
+			],
+			[
+				"socia",
+				"social_network"
+			],
+			[
+				"dis",
+				"discount"
+			],
+			[
+				"qu",
+				"quantity"
+			],
+			[
+				"ordr",
+				"order_by"
+			],
+			[
+				"soc",
+				"social_network"
+			],
+			[
+				"Servi",
+				"ServiceModel"
+			],
+			[
+				"social",
+				"social_network"
+			],
+			[
+				"get",
+				"getPrice"
+			],
+			[
+				"soci",
+				"social_network"
+			],
+			[
+				"Socia",
+				"SocialNetworkModel"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"res",
+				"rest_framework"
+			],
+			[
+				"se",
+				"ServiceModel"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"Http",
+				"HttpResponseForbidden"
+			],
+			[
+				"pars",
+				"parse_obj"
+			],
+			[
+				"Ba",
+				"BaseModel"
+			],
+			[
+				"Base",
+				"BaseModel"
+			],
+			[
+				"New",
+				"NewOrderView"
+			],
+			[
+				"Ser",
+				"ServicesView"
+			],
+			[
+				"Sev",
+				"SecretKeyView"
+			],
+			[
+				"ad",
+				"ads_list"
+			],
+			[
+				"main_",
+				"main_menu_button"
+			],
+			[
+				"ente",
+				"enter_title"
+			],
+			[
+				"new",
+				"new_order"
+			],
+			[
+				"send",
+				"sendmessage0"
+			],
+			[
+				"Ht",
+				"HttpResponse"
+			],
+			[
+				"aut",
+				"authentication"
+			],
+			[
+				"imag",
+				"image_path"
+			],
+			[
+				"user",
+				"user_data"
+			],
+			[
+				"con",
+				"continue"
+			],
+			[
+				"profil",
+				"profile_socials"
+			],
+			[
+				"get_or_crea",
+				"get_or_create_message"
+			],
+			[
+				"user_",
+				"user_data"
+			],
+			[
+				"-------------",
+				"---------------------------------------------------"
+			],
+			[
+				"one",
+				"one_time"
+			],
+			[
+				"get_mana",
+				"get_management_ads_keyboard"
+			],
+			[
+				"get_my",
+				"get_management_ads_keyboard"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"mess",
+				"message_text"
+			],
+			[
+				"my_ads_hand",
+				"my_ads_handler("
+			],
+			[
+				"ev",
+				"event=event,"
+			],
+			[
+				"image",
+				"images = State(\"images\")"
+			],
+			[
+				"enter",
+				"enter_title"
+			],
+			[
+				"message_map",
+				"message_mapper"
+			],
+			[
+				"get_orc",
+				"get_or_create_message"
+			],
+			[
+				"maybe",
+				"maybe_you_mean"
+			],
+			[
+				"get_or_creat",
+				"get_or_create_message"
+			],
+			[
+				"get_or_cre",
+				"get_or_create_message"
+			],
+			[
+				"titl",
+				"title"
+			],
+			[
+				"key",
+				"keyboard = Keyboard"
+			],
+			[
+				"k",
+				"keyboard.add_text_button(\""
+			],
+			[
+				"ke",
+				"keyboard.add_text_button(\""
+			],
+			[
+				"fle",
+				"flex-direction:"
+			],
+			[
+				"hea",
+				"header__title"
+			],
+			[
+				"m",
+				"min-width: 768px) {"
+			],
+			[
+				"color",
+				"color: #fff;"
+			],
+			[
+				"lo",
+				"logo.png"
+			],
+			[
+				"import",
+				"import Registration"
+			],
+			[
+				"MyAdsSt",
+				"MyAdsState(State):"
+			],
+			[
+				"create_user_dire",
+				"create_user_directory(user_id: Union[str, int]) ->"
+			],
+			[
+				"Union",
+				"Union[str, str"
+			],
+			[
+				"messa",
+				"message_text"
+			],
+			[
+				"getExce",
+				"getExcelFile}"
+			],
+			[
+				"getE",
+				"getExcelFileRequest"
+			],
+			[
+				"onCli",
+				"onClickHandler={get"
+			],
+			[
+				"Re",
+				"React.MouseEvent):"
+			],
+			[
+				"create_excel",
+				"create_excel_file"
+			],
+			[
+				"create",
+				"create_word_file"
+			],
+			[
+				"material",
+				"material_data"
+			],
+			[
+				"rase",
+				"raise ValueError(\"Parameter final_file_path should be a str\")"
+			],
+			[
+				"not",
+				"not isinstance(template"
+			],
+			[
+				"ra",
+				"raise ValueError(\"Parameter template_path should be a str\""
+			],
+			[
+				"templ",
+				"template_path"
+			],
+			[
+				"no",
+				"not"
+			],
+			[
+				"list",
+				"list):"
+			],
+			[
+				"nu",
+				"numbers_list"
+			],
+			[
+				"da",
+				"data should be a list\")"
+			],
+			[
+				"dat",
+				"data, list):"
+			],
+			[
+				"eli",
+				"elif isinstance(works"
+			],
+			[
+				"to",
+				"total, str):"
+			],
+			[
+				"pri",
+				"price, str"
+			],
+			[
+				"co",
+				"count, str"
+			],
+			[
+				"elif",
+				"elif not isinstance("
+			],
+			[
+				"row",
+				"row_index, int):"
+			],
+			[
+				"rais",
+				"raise ValueError(\"Parameter worksheet should be a Worksheet\")"
+			],
+			[
+				"in",
+				"index,"
+			],
+			[
+				"sho",
+				"should be a Worksheet"
+			],
+			[
+				"Par",
+				"Parameter"
+			],
+			[
+				"wor",
+				"worksheet"
+			],
+			[
+				"rai",
+				"raise ValueError(\"Parameter alignment should be a str\")"
+			],
+			[
+				"bo",
+				"bool\")"
+			],
+			[
+				"bol",
+				"bold, bool):"
+			],
+			[
+				"i",
+				"isinstance(value,"
+			],
+			[
+				"ite",
+				"items[i]"
+			],
+			[
+				"c",
+				"count, price, total]"
+			],
+			[
+				"shou",
+				"should be a Cell"
+			],
+			[
+				"bott",
+				"bottom=Side(style=\"thin\"),"
+			],
+			[
+				"top",
+				"top=Side(style=\"thin\"),"
+			],
+			[
+				"ri",
+				"right="
+			],
+			[
+				"hori",
+				"horizontal="
+			],
+			[
+				"Ali",
+				"Alignment("
+			],
+			[
+				"impr",
+				"import Literal"
+			],
+			[
+				"typ",
+				"typing_extensions"
+			],
+			[
+				"insert_info_",
+				"insert_info_into_table"
+			],
+			[
+				"Rows",
+				"RowsModel"
+			],
+			[
+				"material_data",
+				"material_data: list = Field(None, alias=\"materialData\")"
+			],
+			[
+				"typi",
+				"typing_extensions"
+			],
+			[
+				"RowData",
+				"RowDataModel"
+			],
+			[
+				"ty",
+				"type\"] == \"subtitle"
+			],
+			[
+				"inde",
+				"index_item + 2}"
+			],
+			[
+				"merg",
+				"merged_cells"
+			],
+			[
+				"type",
+				"type\"] =="
+			],
+			[
+				"ws",
+				"ws[f\"E{iindex_item + 2}\"]"
+			],
+			[
+				"ind",
+				"index_item + 2}\"] = item[\""
+			],
+			[
+				"__",
+				"__name__ == '__main__':"
+			],
+			[
+				"settin",
+				"settings.BASE_DIR, \"files/"
+			],
+			[
+				"fo",
+				"font_size="
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "typeform/core/request_service.py",
+			"settings":
+			{
+				"buffer_size": 1843,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					20,
+					1,
+					"paste",
+					null,
+					"AgAAANgAAAAAAAAA+QAAAAAAAAAAAAAA+QAAAAAAAAD5AAAAAAAAACEAAABzZWxmLnNlc3Npb24gPSByZXF1ZXN0cy5TZXNzaW9uKCk",
+					"AQAAAAAAAAABAAAA+QAAAAAAAADYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAPkAAAAAAAAA+gAAAAAAAAAAAAAA+gAAAAAAAAACAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+QAAAAAAAAD5AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					30,
+					1,
+					"left_delete",
+					null,
+					"AQAAAP4AAAAAAAAA/gAAAAAAAAAEAAAAICAgIA",
+					"AQAAAAAAAAABAAAAAgEAAAAAAAACAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					1,
+					"insert",
+					{
+						"characters": "\ndef"
+					},
+					"BgAAAP4AAAAAAAAA/wAAAAAAAAAAAAAA/wAAAAAAAAADAQAAAAAAAAAAAAD6AAAAAAAAAPoAAAAAAAAABAAAACAgICD/AAAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAQEAAAAAAAAAAAAAAQEAAAAAAAACAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/gAAAAAAAAD+AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					32,
+					1,
+					"insert",
+					{
+						"characters": " __del__"
+					},
+					"CAAAAAIBAAAAAAAAAwEAAAAAAAAAAAAAAwEAAAAAAAAEAQAAAAAAAAAAAAAEAQAAAAAAAAUBAAAAAAAAAAAAAAUBAAAAAAAABgEAAAAAAAAAAAAABgEAAAAAAAAHAQAAAAAAAAAAAAAHAQAAAAAAAAgBAAAAAAAAAAAAAAgBAAAAAAAACQEAAAAAAAAAAAAACQEAAAAAAAAKAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAgEAAAAAAAACAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAAoBAAAAAAAADAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACgEAAAAAAAAKAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"insert",
+					{
+						"characters": "self"
+					},
+					"BAAAAAsBAAAAAAAADAEAAAAAAAAAAAAADAEAAAAAAAANAQAAAAAAAAAAAAANAQAAAAAAAA4BAAAAAAAAAAAAAA4BAAAAAAAADwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACwEAAAAAAAALAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"insert",
+					{
+						"characters": ":"
+					},
+					"AQAAABABAAAAAAAAEQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEAEAAAAAAAAQAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AwAAABEBAAAAAAAAEgEAAAAAAAAAAAAAEgEAAAAAAAAWAQAAAAAAAAAAAAAWAQAAAAAAABoBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEQEAAAAAAAARAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					40,
+					1,
+					"insert",
+					{
+						"characters": "self."
+					},
+					"BgAAANgAAAAAAAAA2QAAAAAAAAAAAAAAEwEAAAAAAAATAQAAAAAAAAgAAAAgICAgICAgINkAAAAAAAAA2gAAAAAAAAAAAAAA2gAAAAAAAADbAAAAAAAAAAAAAADbAAAAAAAAANwAAAAAAAAAAAAAANwAAAAAAAAA3QAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2AAAAAAAAADYAAAAAAAAAAAAAAAAAExA"
+				],
+				[
+					42,
+					1,
+					"reindent",
+					null,
+					"AQAAABcBAAAAAAAAHwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFwEAAAAAAAAXAQAAAAAAAAAAAAAAwFZA"
+				],
+				[
+					43,
+					1,
+					"insert",
+					{
+						"characters": "self.ses"
+					},
+					"CAAAAB8BAAAAAAAAIAEAAAAAAAAAAAAAIAEAAAAAAAAhAQAAAAAAAAAAAAAhAQAAAAAAACIBAAAAAAAAAAAAACIBAAAAAAAAIwEAAAAAAAAAAAAAIwEAAAAAAAAkAQAAAAAAAAAAAAAkAQAAAAAAACUBAAAAAAAAAAAAACUBAAAAAAAAJgEAAAAAAAAAAAAAJgEAAAAAAAAnAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHwEAAAAAAAAfAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					44,
+					1,
+					"insert_dimensions",
+					null,
+					"AgAAACQBAAAAAAAAJAEAAAAAAAADAAAAc2VzJAEAAAAAAAArAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJwEAAAAAAAAnAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					1,
+					"insert",
+					{
+						"characters": ".close)"
+					},
+					"BwAAACsBAAAAAAAALAEAAAAAAAAAAAAALAEAAAAAAAAtAQAAAAAAAAAAAAAtAQAAAAAAAC4BAAAAAAAAAAAAAC4BAAAAAAAALwEAAAAAAAAAAAAALwEAAAAAAAAwAQAAAAAAAAAAAAAwAQAAAAAAADEBAAAAAAAAAAAAADEBAAAAAAAAMgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKwEAAAAAAAArAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"left_delete",
+					null,
+					"AQAAADEBAAAAAAAAMQEAAAAAAAABAAAAKQ",
+					"AQAAAAAAAAABAAAAMgEAAAAAAAAyAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					47,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAADEBAAAAAAAAMwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMQEAAAAAAAAxAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					56,
+					1,
+					"insert",
+					{
+						"characters": "\no"
+					},
+					"BAAAABYBAAAAAAAAFwEAAAAAAAAAAAAAFwEAAAAAAAAbAQAAAAAAAAAAAAAbAQAAAAAAAB8BAAAAAAAAAAAAAB8BAAAAAAAAIAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFgEAAAAAAAAWAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					57,
+					1,
+					"left_delete",
+					null,
+					"AQAAAB8BAAAAAAAAHwEAAAAAAAABAAAAbw",
+					"AQAAAAAAAAABAAAAIAEAAAAAAAAgAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					58,
+					1,
+					"insert",
+					{
+						"characters": "print"
+					},
+					"BQAAAB8BAAAAAAAAIAEAAAAAAAAAAAAAIAEAAAAAAAAhAQAAAAAAAAAAAAAhAQAAAAAAACIBAAAAAAAAAAAAACIBAAAAAAAAIwEAAAAAAAAAAAAAIwEAAAAAAAAkAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHwEAAAAAAAAfAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					59,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAACQBAAAAAAAAJgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJAEAAAAAAAAkAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					61,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAACUBAAAAAAAAJwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJQEAAAAAAAAlAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					62,
+					1,
+					"insert",
+					{
+						"characters": "ok"
+					},
+					"AgAAACYBAAAAAAAAJwEAAAAAAAAAAAAAJwEAAAAAAAAoAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJgEAAAAAAAAmAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					66,
+					1,
+					"insert",
+					{
+						"characters": "\n\n\n"
+					},
+					"CAAAADMHAAAAAAAANAcAAAAAAAAAAAAANAcAAAAAAABABwAAAAAAAAAAAABABwAAAAAAAEEHAAAAAAAAAAAAAEEHAAAAAAAATQcAAAAAAAAAAAAANAcAAAAAAAA0BwAAAAAAAAwAAAAgICAgICAgICAgICBBBwAAAAAAAEIHAAAAAAAAAAAAAEIHAAAAAAAATgcAAAAAAAAAAAAANQcAAAAAAAA1BwAAAAAAAAwAAAAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAMwcAAAAAAAAzBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					67,
+					4,
+					"left_delete",
+					null,
+					"BAAAAD4HAAAAAAAAPgcAAAAAAAAEAAAAICAgIDoHAAAAAAAAOgcAAAAAAAAEAAAAICAgIDYHAAAAAAAANgcAAAAAAAAEAAAAICAgIDUHAAAAAAAANQcAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAQgcAAAAAAABCBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					68,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAADUHAAAAAAAANgcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANQcAAAAAAAA1BwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					69,
+					2,
+					"left_delete",
+					null,
+					"AgAAADUHAAAAAAAANQcAAAAAAAABAAAACjQHAAAAAAAANAcAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAANgcAAAAAAAA2BwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					70,
+					1,
+					"right_delete",
+					null,
+					"AQAAADQHAAAAAAAANAcAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAANAcAAAAAAAA0BwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					92,
+					2,
+					"left_delete",
+					null,
+					"AgAAADAAAAAAAAAAMAAAAAAAAAAHAAAAZXF1ZXN0cy8AAAAAAAAALwAAAAAAAAABAAAAcg",
+					"AQAAAAAAAAABAAAANwAAAAAAAAAwAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					93,
+					1,
+					"insert",
+					{
+						"characters": "фшщ"
+					},
+					"AwAAAC8AAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAxAAAAAAAAAAAAAAAxAAAAAAAAADIAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALwAAAAAAAAAvAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					94,
+					3,
+					"left_delete",
+					null,
+					"AwAAADEAAAAAAAAAMQAAAAAAAAACAAAA0YkwAAAAAAAAADAAAAAAAAAAAgAAANGILwAAAAAAAAAvAAAAAAAAAAIAAADRhA",
+					"AQAAAAAAAAABAAAAMgAAAAAAAAAyAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					95,
+					1,
+					"insert",
+					{
+						"characters": "aio"
+					},
+					"AwAAAC8AAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAxAAAAAAAAAAAAAAAxAAAAAAAAADIAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALwAAAAAAAAAvAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					96,
+					1,
+					"insert_dimensions",
+					null,
+					"AgAAAC8AAAAAAAAALwAAAAAAAAADAAAAYWlvLwAAAAAAAAA2AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMgAAAAAAAAAyAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "typeform-sdk.sublime-project",
+			"settings":
+			{
+				"buffer_size": 428,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "Anaconda Python Builder",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"json",
+				"Pretty JSON: Format JSON"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format JSON"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reident",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"line",
+				"Sort Lines"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git add ",
+				"Git: Add All"
+			],
+			[
+				"git  push",
+				"Git: Push"
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"settn",
+				"Preferences: Settings"
+			],
+			[
+				"settin",
+				"Preferences: Settings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"di",
+				"Package Control: Disable Package"
+			],
+			[
+				"sett",
+				"Preferences: Settings"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"settins",
+				"Preferences: Settings"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"indenta",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 198.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)\n",
+			"exit",
+			"exit()",
+			"exit(0",
+			"import os",
+			"wow",
+			"print(\"oke\")",
+			" ls",
+			" ды",
+			"ды"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/kirill9366/Documents/typeform-async-client",
+		"/Users/kirill9366/Documents/typeform-async-client/typeform",
+		"/Users/kirill9366/Documents/typeform-async-client/typeform/core",
+		"/Users/kirill9366/Documents/typeform-async-client/typeform/core/abc"
+	],
+	"file_history":
+	[
+		"/Users/kirill9366/Documents/typeform-async-client/typeform/forms.py",
+		"/Users/kirill9366/Documents/typeform-async-client/typeform/core/abc/api.py",
+		"/Users/kirill9366/Documents/typeform-async-client/typeform/core/abc/router.py",
+		"/Users/kirill9366/Documents/typeform-async-client/typeform/settings.py",
+		"/Users/kirill9366/Documents/typeform-async-client/typeform/core/request_service.py",
+		"/Users/kirill9366/Documents/typeform-async-client/typeform/__init__.py",
+		"/Users/kirill9366/Documents/typeform-async-client/typeform/client.py",
+		"/Users/kirill9366/Documents/typeform-async-client/typeform/schemas/__init__.py",
+		"/Users/kirill9366/Documents/typeform-async-client/main.py",
+		"/Users/kirill9366/Documents/TypeForm-Contract/app/data/config.py",
+		"/Users/kirill9366/Documents/TypeForm-Contract/app/loader.py",
+		"/Users/kirill9366/Documents/TypeForm-Contract/.env",
+		"/Users/kirill9366/Documents/TypeForm-Contract/.env.template",
+		"/Users/kirill9366/Documents/TypeForm-Contract/app/main.py",
+		"/Users/kirill9366/Documents/TypeForm-Contract/.gitignore",
+		"/Users/kirill9366/Documents/TypeForm-Contract/app/routers/typeform.py",
+		"/Users/kirill9366/Documents/TypeForm-Contract/app/api/__init__.py",
+		"/Users/kirill9366/Documents/TypeForm-Contract/app/routers/__init__.py",
+		"/Users/kirill9366/Documents/TypeForm-Contract/entrypoint.sh",
+		"/Users/kirill9366/Documents/TypeForm-Contract/TypeForm-Contract.sublime-project",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/templates/cabinet/cabinet.html",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/static/js/basket.js",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/entrypoint.sh",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/apps/cabinet/admin.py",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/static/js/price.js",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/templates/main/index.html",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/templates/components/modal/twitter_modal.html",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/templates/components/modal/vk_modal.html",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/templates/components/modal/youtube_modal.html",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/apps/main/views.py",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/templates/components/modal/telegram_modal.html",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/templates/components/modal/ok_modal.html",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/templates/components/modal/facebook_modal.html",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/templates/components/modal/instagram_modal.html",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/templates/components/modal/tiktok_modal.html",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/apps/cabinet/models.py",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/apps/api/views.py",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/apps/api/urls.py",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/apps/api/serializers.py",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/static/js/order.js",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/apps/cabinet/fixtures/advants.json",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/apps/api/utils.py",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/config/settings.py",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/apps/cabinet/fixtures/discount.json",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/apps/cabinet/urls.py",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/services/common.py",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/apps/cabinet/views.py",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/templates/components/header/header.html",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/config/core/__init__.py",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/config/core/auth.py",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/config/core/__init__,py",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/templates/authentication/signup.html",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/templates/authentication/login.html",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/apps/cabinet/forms.py",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/templates/components/header/auth_header.html",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/apps/cabinet/fixtures/service.json",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/apps/cabinet/fixtures/social_network.json",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/apps/authentication/fixtures/superuser.json",
+		"/Users/kirill9366/Documents/SMM-GROUP/smm-group.sublime-project",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/apps/__init__.py",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/config/urls.py",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/apps/api/apps.py",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/static/css/main.css",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/templates/main/services.html",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/templates/news/news.html",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/templates/base.html",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/templates/balance/balance.html",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/templates/cabinet/friend.html",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/templates/cabinet/order.html",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/templates/base2.html",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/apps/balance/views.py",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/apps/news/views.py",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/templates/authentication/changepass.html",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/apps/authentication/views.py",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/templates/authentication/soc_auth.html",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/services/bigsmm.py",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/templates/authentication/forgot-pass.html",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/templates/cabinet.html",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/templates/order.html",
+		"/Users/kirill9366/Documents/SMM-GROUP/entrypoint.sh",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/.env",
+		"/Users/kirill9366/Documents/baraholka-bot/bot/handlers/users/create_ad.py",
+		"/Users/kirill9366/Documents/baraholka-bot/bot/utils/keyboards.py",
+		"/Users/kirill9366/Documents/baraholka-bot/bot/handlers/users/menu.py",
+		"/Users/kirill9366/Documents/baraholka-bot/bot/handlers/users/find_ad.py",
+		"/Users/kirill9366/Documents/baraholka-bot/bot/database/models.py",
+		"/Users/kirill9366/Documents/baraholka-bot/.env",
+		"/Users/kirill9366/Documents/baraholka-bot/bot/main.py",
+		"/Users/kirill9366/Documents/SMM-GROUP/.gitignore",
+		"/Users/kirill9366/Documents/SMM-GROUP/docker/nginx/nginx.conf",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/Dockerfile",
+		"/Users/kirill9366/Documents/SMM-GROUP/docker-compose.yml",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/requirements.txt",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/apps/.env",
+		"/Users/kirill9366/Documents/SMM-GROUP/docker/nginx/Dockerfile",
+		"/Users/kirill9366/Documents/SMM-GROUP/.env.template",
+		"/Users/kirill9366/Documents/SMM-GROUP/.env",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/some_help.txt",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/apps/balance/urls.py",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/apps/main/fixtures/faq.json",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/templates/signup.html",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/templates/services.html",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/templates/news.html",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/templates/login.html",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/templates/index.html",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/templates/friend.html",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/templates/forgot-pass.html",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/templates/changepass.html",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/templates/balance.html",
+		"/Users/kirill9366/Documents/books/file.py",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/services/mail.py",
+		"/Users/kirill9366/Documents/SMM-GROUP/site/__init__.py",
+		"/Users/kirill9366/Documents/SMM-GROUP/.entrypoint",
+		"/Users/kirill9366/Documents/SMM-GROUP/config/settings.py",
+		"/Users/kirill9366/Documents/SMM-GROUP/services/bigsmm.py",
+		"/Users/kirill9366/Documents/SMM-GROUP/types/bigsmm/__init__.py",
+		"/Users/kirill9366/Documents/SMM-GROUP/types/bigsmm/order.py",
+		"/Users/kirill9366/Documents/SMM-GROUP/types/__init__.py",
+		"/Users/kirill9366/Documents/SMM-GROUP/apps/cabinet/views.py",
+		"/Users/kirill9366/Documents/SMM-GROUP/apps/cabinet/models.py",
+		"/Users/kirill9366/Documents/SMM-GROUP/apps/balance/views.py",
+		"/Users/kirill9366/Documents/SMM-GROUP/apps/main/views.py",
+		"/Users/kirill9366/Documents/SMM-GROUP/apps/news/apps.py",
+		"/Users/kirill9366/Documents/SMM-GROUP/apps/main/apps.py",
+		"/Users/kirill9366/Documents/SMM-GROUP/apps/cabinet/apps.py",
+		"/Users/kirill9366/Documents/SMM-GROUP/apps/balance/apps.py",
+		"/Users/kirill9366/Documents/SMM-GROUP/config/urls.py",
+		"/Users/kirill9366/Documents/SMM-GROUP/apps/authentication/apps.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 118.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"py",
+			"'"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\""
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "typeform/core/request_service.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1843,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								806,
+								806
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										971,
+										972
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										788,
+										789
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "typeform-sdk.sublime-project",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 428,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								428,
+								428
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/JSON/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "typeform-sdk.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"frontend/webpack.config.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 305.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 549.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
