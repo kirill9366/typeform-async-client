@@ -3,7 +3,7 @@ import json
 import os
 
 # locale imports
-from typeform.schemas.forms.list import ResponseBodyModel
+from atypeform.schemas.forms.list import ResponseBodyModel
 
 
 class TestResponseBodyModel:

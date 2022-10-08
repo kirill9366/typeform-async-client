@@ -4,8 +4,8 @@ import pytest_asyncio
 from decouple import config
 
 # locale imports
-from typeform.client import Client
-from typeform.core.request_service import RequestService
+from atypeform.client import Client
+from atypeform.core.request_service import RequestService
 
 
 @pytest_asyncio.fixture(name="client")

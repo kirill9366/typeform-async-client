@@ -4,11 +4,12 @@ from .settings import ApiRouter
 from .forms import Forms
 # from .responses import Responses
 from .client import Client
+from .webhooks import Webhooks
 
-__all__ = ["AsyncTypeform"]
+__all__ = ["AsyncTypeForm"]
 
 
-class AsyncTypeform:
+class AsyncTypeForm:
     """Typeform API client"""
 
     def __init__(self, token: str, headers: dict = {}):
@@ -18,11 +19,16 @@ class AsyncTypeform:
         client = Client(token, service)
         router = ApiRouter()
         self.__forms = Forms(client, router)
+        self.__webhooks = Webhooks(client, router)
         # self.__responses = Responses(client)
 
     @property
     def forms(self) -> Forms:
         return self.__forms
+
+    @property
+    def webhooks(self) -> Webhooks:
+        return self.__webhooks
 
     # @property
     # def responses(self) -> Responses:

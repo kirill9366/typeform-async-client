@@ -1,6 +1,6 @@
 # local imports
-from typeform.core.request_service import RequestService
-from typeform.settings import ApiRouter
+from atypeform.core.request_service import RequestService
+from atypeform.settings import ApiRouter
 
 
 class TestRequestService:

@@ -3,8 +3,8 @@ import json
 import os
 
 # third-party imports
-from typeform.schemas.webhooks import CreateRequestBodyModel
-from typeform.schemas.webhooks import CreateResponseBodyModel
+from atypeform.schemas.webhooks import CreateRequestBodyModel
+from atypeform.schemas.webhooks import CreateResponseBodyModel
 
 
 class TestRequestBodyModel:

@@ -3,10 +3,10 @@ import json
 import os
 
 # locale imports
-from typeform.forms import Forms
-from typeform.schemas.forms import CreateRequestBodyModel
-from typeform.schemas.forms import ListResponseBodyModel
-from typeform.settings import ApiRouter
+from atypeform.forms import Forms
+from atypeform.schemas.forms import CreateRequestBodyModel
+from atypeform.schemas.forms import ListResponseBodyModel
+from atypeform.settings import ApiRouter
 
 
 class TestForms:

@@ -1,9 +1,9 @@
 # locale imports
-from typeform.schemas.webhooks import CreateRequestBodyModel
-from typeform.schemas.webhooks import CreateResponseBodyModel
-from typeform.schemas.webhooks import GetResponseBodyModel
-from typeform.settings import ApiRouter
-from typeform.webhooks import Webhooks
+from atypeform.schemas.webhooks import CreateRequestBodyModel
+from atypeform.schemas.webhooks import CreateResponseBodyModel
+from atypeform.schemas.webhooks import GetResponseBodyModel
+from atypeform.settings import ApiRouter
+from atypeform.webhooks import Webhooks
 
 
 class TestWebhooks:

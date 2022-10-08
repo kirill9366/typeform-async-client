@@ -3,7 +3,7 @@ import json
 import os
 
 # third-party imports
-from typeform.schemas.webhooks import GetResponseBodyModel
+from atypeform.schemas.webhooks import GetResponseBodyModel
 
 
 class TestResponseBodyModel:
