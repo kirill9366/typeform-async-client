@@ -1,3 +1,6 @@
+# locale imports
+from .core.request_service import RequestService
+from .settings import ApiRouter
 from .forms import Forms
 # from .responses import Responses
 from .client import Client
@@ -10,8 +13,11 @@ class AsyncTypeform:
 
     def __init__(self, token: str, headers: dict = {}):
         """Constructor for Typeform API client"""
-        client = Client(token, headers=headers)
-        self.__forms = Forms(client)
+
+        service = RequestService()
+        client = Client(token, service)
+        router = ApiRouter()
+        self.__forms = Forms(client, router)
         # self.__responses = Responses(client)
 
     @property
