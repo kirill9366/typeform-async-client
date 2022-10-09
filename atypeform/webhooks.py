@@ -43,7 +43,7 @@ class Webhooks:
         self,
         form_id: str,
         tag: str,
-        data: CreateRequestBodyModel,
+        data: typing.Union[CreateRequestBodyModel, dict],
     ):
         """Create webhook
 
@@ -57,6 +57,9 @@ class Webhooks:
             Additional data for webhook
 
         """
+        if isinstance(data, CreateResponseBodyModel):
+            data = data.dict()
+
         response = await self._client.request(
             "put",
             ApiMethods.CREATE_WEBHOOK.format(form_id, tag),
