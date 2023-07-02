@@ -22,7 +22,7 @@ class Responses:
         self,
         form_id: str,
         page_size: int = 1,
-        after: str = None,
+        before: str = None,
     ) -> typing.Union[
         dict,
         ListResponseBodyModel,
@@ -44,14 +44,18 @@ class Responses:
             Typeform returned an error.
 
         """
+
+        params = {
+            "page_size": page_size,
+        }
+        if before:
+            params["before"] = before
+
         response = await self._client.request(
             "get",
             ApiMethods.LIST_RESPONSES.format(form_id),
             self._router,
-            params={
-                "page_size": page_size,
-                "after": after,
-            },
+            params=params,
             timeout=3,
         )
         if response.status == 200:

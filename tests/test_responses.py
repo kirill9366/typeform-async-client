@@ -16,7 +16,11 @@ class TestResponses:
     async def test_get_list(self, client):
 
         responses = Responses(client, self._router)
-        response = await responses.get_list("jJtGQNuC", page_size=1)
+        response = await responses.get_list(
+            "jJtGQNuC",
+            page_size=1,
+            before="9oug7olkto6h3nsi0w2zzg9ougthuveu",
+        )
         print(response)
         assert False
         assert isinstance(response, ListResponseBodyModel)

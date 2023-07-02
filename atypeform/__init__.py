@@ -21,7 +21,7 @@ class AsyncTypeForm:
         router = ApiRouter()
         self.__forms = Forms(client, router)
         self.__webhooks = Webhooks(client, router)
-        self.__responses = Responses(client)
+        self.__responses = Responses(client, router)
 
     @property
     def forms(self) -> Forms:
