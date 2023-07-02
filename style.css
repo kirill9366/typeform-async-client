@@ -1,0 +1,237 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@500&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: linear-gradient(
+      to right,
+      #20272c 60%,
+      rgba(117, 19, 93, 0) 80% 100%
+    ),
+    url("./images/background.jpg");
+  background-repeat: no-repeat;
+  background-size: auto 100%;
+  background-position-x: right;
+  min-height: 1454px;
+}
+
+.logo__img {
+  width: 113px;
+  height: 105px;
+  margin: 72px 64px;
+  margin-bottom: 13px;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  margin-left: 223px;
+  width: 1065px;
+}
+
+h1 {
+  font-family: 'Cormorant SC';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 73.6202px;
+  line-height: 111.1%;
+  color: #FFFFFF;
+  margin: 13px 0;
+}
+
+.rectangles {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.rectangle{
+  width: 514.83px;
+  height: 176.61px;
+  border: 2.5845px solid #FFFFFF;
+  margin-bottom: 35px;
+  display: flex;
+  justify-content: center;
+}
+.rectangle__p{
+  font-family: 'Cormorant SC';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 33.6216px;
+  line-height: 111.1%;
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #FFFFFF;
+}
+
+.subtitle {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.subtitle__underline {
+  text-decoration-line: underline;
+}
+
+.subtitle__p {
+  width: 922.98px;
+  font-family: 'Cormorant SC';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 41.1103px;
+  line-height: 126.1%;
+  text-align: right;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 627.52px;
+  height: 142.49px;
+  padding: 35px 45px;
+  border: 1.5507px solid #FFFFFF;
+  border-radius: 22.7436px;
+  margin-top: 45px;
+}
+
+.button__img {
+  width: 72.54px;
+  height: 72.54px;
+}
+
+.button__p {
+  width: 428.86px;
+  height: 36px;
+  font-family: 'Cormorant SC';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32.3924px;
+  line-height: 111.1%;
+  text-decoration-line: underline;
+  color: #FFFFFF;  
+}
+
+@media (max-width: 2100px) {
+  body {
+    background-image: linear-gradient(
+      to right,
+      #20272c 70%,
+      rgba(117, 19, 93, 0) 80% 100%
+    ),
+    url("./images/background.jpg");
+    background-position-x: 120%;
+  }
+}
+
+@media (max-width: 1800px) {
+  body {
+    background-image: linear-gradient(
+      to right,
+      #20272c 80%,
+      rgba(117, 19, 93, 0) 90% 100%
+    ),
+    url("./images/background.jpg");
+    background-position-x: 140%;
+  }
+}
+
+@media (max-width: 1600px) {
+  body {
+    background-color: #20272c;
+    background-image: none;
+  }
+  .wrapper {
+    margin-left: 0;
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 1200px) {
+  .logo__img {
+    margin: 36px 32px;
+    margin-bottom: 6px;
+    width: 61px;
+    height: 50px;
+  }
+
+  .wrapper {
+    width: 520px;
+  }
+
+  h1 {
+    font-size: 35px;
+  }
+  .rectangle {
+    width: 250px;
+    height: 80px;
+  }
+  .rectangle__p {
+    font-size: 15px;
+  }
+  .subtitle__p {
+    font-size: 20px;
+  }
+  .button {
+    width: 300px;
+    height: 70px;
+    padding: 15px 20px;
+  }
+  .button__img {
+    width: 35px;
+    height: 35px;
+  }
+  
+  .button__p {
+    width: 200px;
+    height: 18px;
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 500px) {
+  .logo__img {
+    margin: 27px 24px;
+    margin-bottom: 4px;
+    width: 45px;
+    height: 40px;
+  }
+  .rectangles {
+    align-items: center;
+    justify-content: center
+  }
+  .wrapper {
+    max-width: 400px;
+    width: 100%;
+  }
+  h1 {
+    font-size: 20px;
+  }
+  .subtitle__p {
+    font-size: 10px;
+    width: 200px;
+  }
+  .button {
+    width: 200px;
+    height: 50px;
+    padding: 13px 14px;
+  }
+  .button__img {
+    width: 26px;
+    height: 26px;
+  }
+  
+  .button__p {
+    width: 130px;
+    height: 12px;
+    font-size: 10px;
+  }
+}
+

@@ -46,4 +46,5 @@ class Client(object):
             json=json,
             data=data,
             params=params,
+            **kwargs
         )

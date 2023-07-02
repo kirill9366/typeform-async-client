@@ -18,6 +18,9 @@ class ApiMethods:
     CREATE_WEBHOOK: str = "/forms/{}/webhooks/{}"
     DELETE_WEBHOOK: str = "/forms/{}/webhooks/{}"
 
+    # responses
+    LIST_RESPONSES: str = "/forms/{}/responses"
+
 
 class ApiConfig:
     pass

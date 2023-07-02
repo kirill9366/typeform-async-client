@@ -2,7 +2,7 @@
 from .core.request_service import RequestService
 from .settings import ApiRouter
 from .forms import Forms
-# from .responses import Responses
+from .responses import Responses
 from .client import Client
 from .webhooks import Webhooks
 

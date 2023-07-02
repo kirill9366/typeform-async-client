@@ -43,7 +43,7 @@ class Forms:
             Form ID
 
         """
-        return await self.__client.request(
+        return await self._client.request(
             "delete",
             ApiMethods.DELETE_FORM.format(form_id),
             self._router,
