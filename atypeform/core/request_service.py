@@ -55,5 +55,6 @@ class RequestService:
                 json=json if isinstance(json, dict) else None,
                 params=params,
                 timeout=timeout,
+                verify_ssl=False,
                 **kwargs,
             )
