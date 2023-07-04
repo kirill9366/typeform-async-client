@@ -34,6 +34,7 @@ class AnswerModel(BaseModel):
     date: Optional[str]
     choice: Optional[ChoiceModel]
     file_url: Optional[str]
+    phone_number: Optional[str]
 
 
 class CalculatedModel(BaseModel):
